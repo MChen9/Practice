@@ -1,4 +1,4 @@
-class Car:
+class Car:  # use in python 3, use Car(object) in python 2
     color = 'yellow'
     brand = 'BMW'
 
